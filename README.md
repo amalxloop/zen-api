@@ -67,7 +67,7 @@ Make sure you have node installed on your device
 1. Run the following code to clone the repository and install all required dependencies
 
 ```bash
-$ git clone https://github.com/PacaHat/zen-api.git
+$ git clone https://github.com/amalxloop/zen-api.git
 $ cd zen-api
 $ npm install
 ```
